@@ -8,3 +8,5 @@ robin-stocks
 openpyxl
 python-telegram-bot
 fpdf
+fastapi
+uvicorn
