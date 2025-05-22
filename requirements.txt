@@ -1,0 +1,9 @@
+pandas
+numpy
+requests
+python-dotenv
+matplotlib
+robin-stocks
+openpyxl
+python-telegram-bot
+fpdf
